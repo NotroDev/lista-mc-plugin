@@ -1,2 +1,2 @@
-# lista-mc-plugin
-Plugin for Minecraft server list - Lista-MC.PL
+# Lista-MC.PL plugin
+Plugin umożliwiający nagradzanie graczy za ocenę serwera na stronie https://lista-mc.pl.
